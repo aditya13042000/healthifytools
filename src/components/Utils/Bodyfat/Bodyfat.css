@@ -1,0 +1,62 @@
+.Bigone{
+    background-color: #EBF5FB;
+    float:left; 
+    clear: left;
+    display: table-cell;
+    width: 100%;
+    height: 40%;
+}
+
+.Firstone{
+    background-color:#EBF5FB;
+    float: left;
+    width: 49.5%;
+    height: 35%;
+}
+
+.Secondone{
+    background-color : #EBF5FB;
+    margin-left: 50.5%;
+    width: 49.5%;
+    height: 35%;
+}
+
+.Buttonenter{
+    margin-top: 1%;
+}
+.out{
+    height: 20px;
+    margin-top: 1%;
+    border-width: 1px;
+    border-color: black;
+}
+
+.Firstquarter{
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 15px;
+}
+
+.Bodyfatheading{
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.Secondquarter{
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 15px;
+    margin-bottom: 1%;
+}
+
+.Paratext{
+    text-align: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
