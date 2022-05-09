@@ -1,0 +1,104 @@
+.Greatone{
+    margin-top: 0%;
+}
+.Grandones{
+    background-color : #EBF5FB;
+    height: 10%;
+    text-align: left;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.Grandonestwo{
+    background-color : #EBF5FB;
+    font-size: medium;
+    height: 250px;
+    margin-top: 0%;
+    border-radius: 10px;
+}
+
+.Dietheading{
+    text-align: left;
+    margin-left: 1%;
+    font-size: large;
+}
+
+.Grandonestwofirst{
+    background-color: white;
+    font-size: medium;
+    float: left;
+    margin-left: 4%;
+    width: 40%;
+    border-radius: 15px;
+}
+.Grandonestwosecond{
+    background-color: white;
+    font-size: medium;
+    text-align: left;
+    margin-left: 48%;
+    margin-right: 4%;
+    width: 48%;
+    border-radius: 15px;
+}
+.Gotspara{
+    text-align: center;
+}
+
+.Bigones{
+    background-color : #EBF5FB;
+    float:left; 
+    clear: left;
+    display: table-cell;
+    width: 100%;
+    height: 40%;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+
+.Firstones{
+    background-color : #EBF5FB;
+    float: left;
+    width: 100%;
+    height: 35%;
+    border-radius: 10px;
+}
+
+.out{
+    height: 20px;
+    margin-top: 1%;
+    border-width: 1px;
+    border-color: black;
+}
+
+.Firstquarters{
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 15px;
+}
+
+.Bodyfatheading{
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.Secondquarters{
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 15px;
+    margin-bottom: 1%;
+}
+
+.Paratext{
+    text-align: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
+.Listval{
+    text-align: left;
+}

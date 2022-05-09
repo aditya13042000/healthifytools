@@ -66,10 +66,6 @@ const Bodyfat = () => {
  //Different handle function for managing states of input field when it is changed
   const handleChangeGender = (event) => {
     setGender(event.target.value);
-    if(isset === 'true')
-    {
-      handleSubmit();
-    }
   };
 
   const handleChangeWaist = (event) => {
@@ -82,7 +78,6 @@ const Bodyfat = () => {
 
   const HandleChangeHeight = (event) => {
     setHeight(event.target.value);
-    console.log(event.target.value);
   };
 
   //passing callback values to bodyfat function
